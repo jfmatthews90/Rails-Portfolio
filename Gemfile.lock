@@ -246,6 +246,7 @@ DEPENDENCIES
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
   devise (~> 4.3)
+  inherited_resources
   jbuilder (~> 2.5)
   paperclip (~> 5.1)
   puma (~> 3.7)
